@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/medicine/disease/alzheimers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/nutrition/antioxidants/anthocyanins/</loc>
+  </url>
+  
+  <url>
     <loc>https://bainianwenku.github.io/science-behind-shopping/chemistry/chemical-elements/arsenic/</loc>
   </url>
   
@@ -10,7 +18,11 @@
   </url>
   
   <url>
-    <loc>https://bainianwenku.github.io/science-behind-shopping/nurtrition/vitamins/b/</loc>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/nutrition/vitamins/b/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/toys--games/baby--toddler-toys/</loc>
   </url>
   
   <url>
@@ -18,7 +30,7 @@
   </url>
   
   <url>
-    <loc>https://bainianwenku.github.io/science-behind-shopping/nurtrition/carbohydrates/</loc>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/nutrition/carbohydrates/</loc>
   </url>
   
   <url>
@@ -30,7 +42,15 @@
   </url>
   
   <url>
-    <loc>https://bainianwenku.github.io/home--garden/furniture/</loc>
+    <loc>https://bainianwenku.github.io/books/computers--technology/compilers---principles-techniques-and-tools/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/books/computers--technology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/biology/endorphins/</loc>
   </url>
   
   <url>
@@ -42,11 +62,31 @@
   </url>
   
   <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/chemistry/compound/lactic-acid/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/home--garden/lamps/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/sports/physical-exercise/</loc>
+  </url>
+  
+  <url>
     <loc>https://bainianwenku.github.io/food/grains/rice/</loc>
   </url>
   
   <url>
-    <loc>https://bainianwenku.github.io/science-behind-shopping/medicine/toxical/</loc>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/medicine/toxic-heavy-metal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/medicine/disease/diabetes/type-2-diabetes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/sports/physical-exercise/weighted-bar/</loc>
   </url>
   
   <url>
@@ -54,27 +94,11 @@
   </url>
   
   <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/biology/</loc>
+  </url>
+  
+  <url>
     <loc>https://bainianwenku.github.io/science-behind-shopping/chemistry/chemical-elements/cadmium/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bainianwenku.github.io/science-behind-shopping/nurtrition/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bainianwenku.github.io/science-behind-shopping/nurtrition/proteins/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bainianwenku.github.io/automotive/rear-view-mirror-ornament/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bainianwenku.github.io/science-behind-shopping/medicine/type-2-diabetes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bainianwenku.github.io/beauty/</loc>
   </url>
   
   <url>
@@ -82,7 +106,59 @@
   </url>
   
   <url>
-    <loc>https://bainianwenku.github.io/science-behind-shopping/nurtrition/fat/</loc>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/chemistry/compound/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/medicine/disease/coronary-heart-disease/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/medicine/disease/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/nutrition/proteins/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/books/computers--technology/structure-and-interpretation-of-computer-programs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/beauty/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/chemistry/chemical-elements/calcium/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/medicine/disease/dementia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/nutrition/fat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/automotive/gasoline/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/nutrition/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/books/computers--technology/the-little-schemer--the-seasoned-schemer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/books/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/medicine/disease/diabetes/</loc>
   </url>
   
   <url>
@@ -94,39 +170,15 @@
   </url>
   
   <url>
-    <loc>https://bainianwenku.github.io/books/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bainianwenku.github.io/automotive/gasoline/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bainianwenku.github.io/science-behind-shopping/chemistry/chemical-elements/mercury/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bainianwenku.github.io/science-behind-shopping/nurtrition/vitamins/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bainianwenku.github.io/science-behind-shopping/nurtrition/antioxidants/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bainianwenku.github.io/science-behind-shopping/chemistry/chemical-elements/calcium/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bainianwenku.github.io/clothing--accessories/</loc>
-  </url>
-  
-  <url>
     <loc>https://bainianwenku.github.io/automotive/navigation-gps/</loc>
   </url>
   
   <url>
-    <loc>https://bainianwenku.github.io/science-behind-shopping/nurtrition/anthocyanins/</loc>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/nutrition/vitamins/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/nutrition/antioxidants/</loc>
   </url>
   
   <url>
@@ -134,7 +186,15 @@
   </url>
   
   <url>
-    <loc>https://bainianwenku.github.io/electronics--accessories/</loc>
+    <loc>https://bainianwenku.github.io/clothing--accessories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/medicine/disease/obesity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/automotive/rear-view-mirror-ornament/</loc>
   </url>
   
   <url>
@@ -142,7 +202,15 @@
   </url>
   
   <url>
-    <loc>https://bainianwenku.github.io/food/</loc>
+    <loc>https://bainianwenku.github.io/electronics--accessories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/automotive/snow-tools/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/medicine/disease/stress/</loc>
   </url>
   
   <url>
@@ -150,11 +218,11 @@
   </url>
   
   <url>
-    <loc>https://bainianwenku.github.io/health--personal-care/</loc>
+    <loc>https://bainianwenku.github.io/food/</loc>
   </url>
   
   <url>
-    <loc>https://bainianwenku.github.io/home--garden/</loc>
+    <loc>https://bainianwenku.github.io/health--personal-care/</loc>
   </url>
   
   <url>
@@ -162,7 +230,7 @@
   </url>
   
   <url>
-    <loc>https://bainianwenku.github.io/house/</loc>
+    <loc>https://bainianwenku.github.io/home--garden/</loc>
   </url>
   
   <url>
@@ -170,7 +238,7 @@
   </url>
   
   <url>
-    <loc>https://bainianwenku.github.io/industrial--scientific/</loc>
+    <loc>https://bainianwenku.github.io/house/</loc>
   </url>
   
   <url>
@@ -178,11 +246,19 @@
   </url>
   
   <url>
-    <loc>https://bainianwenku.github.io/jewelry--watches/</loc>
+    <loc>https://bainianwenku.github.io/industrial--scientific/</loc>
   </url>
   
   <url>
     <loc>https://bainianwenku.github.io/science-behind-shopping/chemistry/chemical-elements/manganese/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/jewelry--watches/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bainianwenku.github.io/science-behind-shopping/chemistry/chemical-elements/mercury/</loc>
   </url>
   
   <url>
