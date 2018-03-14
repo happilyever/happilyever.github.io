@@ -10,42 +10,5 @@
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>Looking to get in touch with HappyEverAfter? Simply fill out the contact form below.   (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id=&#34;typef_orm&#34;, b=&#34;https://embed.typeform.com/&#34;; if(!gi.call(d,id)) { js=ce.call(d,&#34;script&#34;); js.id=id; js.src=b+&#34;embed.js&#34;; q=gt.call(d,&#34;script&#34;)[0]; q.parentNode.insertBefore(js,q) } })()  powered by Typeform  </description>
-    </item>
-    
-    <item>
-      <title>Disclosure/Copyright</title>
-      <link>/disclosure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/disclosure/</guid>
-      <description>Copyright This website and its content are copyright of HappyEverAfter. All rights reserved. No part of the content on this website shall be reproduced, transmitted, or sold in whole or in part in any form, without the prior written permision of the author.
-FDA Disclaimer The advice on this website have not been evaluated by the Food &amp;amp; Drug Administration. Any information on this website is not intended to diagnose, treat, cure, or prevent any disease.</description>
-    </item>
-    
-    <item>
-      <title>footer</title>
-      <link>/_footer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/_footer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>header</title>
-      <link>/_header/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/_header/</guid>
-      <description>HAPPY EVER AFTER</description>
-    </item>
-    
   </channel>
 </rss>

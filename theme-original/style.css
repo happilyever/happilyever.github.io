@@ -929,7 +929,7 @@ td {
 
 .highlightable {
   padding: 0rem 0 0rem;
-  overflow: auto;
+
   position: relative;
   height: 100%; }
 
@@ -1114,6 +1114,7 @@ pre .copy-to-clipboard:hover {
 #sidebar {
   background-color: #2053AB;
   position: fixed;
+  overflow: auto;
   top: 0;
   width: 300px;
   bottom: 0;
